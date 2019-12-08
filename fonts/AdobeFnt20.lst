@@ -1,0 +1,132 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/janyamanaka 1/Desktop/DataViz-MajorStudioFall19/Week13-HW/Assets for Kat/WebLayout1 Folder/Document fonts/AdobeFnt20.lst
+FileLength:3061
+FileModTime:597354316
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-CondensedLight
+FamilyName:Open Sans
+StyleName:Condensed Light
+MenuName:Open Sans Condensed Light
+StyleBits:0
+WeightClass:300
+WidthClass:3
+AngleClass:0
+FullName:Open Sans Condensed Light
+WritingScript:Roman
+OutlineFileName:/Users/janyamanaka 1/Desktop/DataViz-MajorStudioFall19/Week13-HW/Assets for Kat/WebLayout1 Folder/Document fonts/OpenSans-CondLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:221108
+FileModTime:480425278
+NameArray:0,Mac,4,Open Sans Cond Light
+NameArray:0,Win,1,Open Sans Condensed Light
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/janyamanaka 1/Desktop/DataViz-MajorStudioFall19/Week13-HW/Assets for Kat/WebLayout1 Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217280
+FileModTime:381726348
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Bold
+FamilyName:Roboto
+StyleName:Bold
+MenuName:Roboto
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Roboto Bold
+WritingScript:Roman
+OutlineFileName:/Users/janyamanaka 1/Desktop/DataViz-MajorStudioFall19/Week13-HW/Assets for Kat/WebLayout1 Folder/Document fonts/roboto-bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:135820
+FileModTime:406750378
+NameArray:0,Mac,18,Roboto Bold
+NameArray:0,Mac,4,Roboto Bold
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-CondensedBold
+FamilyName:Open Sans Condensed
+StyleName:Bold
+MenuName:Open Sans Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Open Sans Condensed Bold
+WritingScript:Roman
+OutlineFileName:/Users/janyamanaka 1/Desktop/DataViz-MajorStudioFall19/Week13-HW/Assets for Kat/WebLayout1 Folder/Document fonts/OpenSans-CondBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:264372
+FileModTime:480425278
+NameArray:0,Win,1,Open Sans Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+MenuName:Playfair Display
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Playfair Display
+WritingScript:Roman
+OutlineFileName:/Users/janyamanaka 1/Desktop/DataViz-MajorStudioFall19/Week13-HW/Assets for Kat/WebLayout1 Folder/Document fonts/PlayfairDisplay-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:148580
+FileModTime:591469034
+NameArray:0,Mac,4,Playfair Display
+NameArray:0,Win,1,Playfair Display
+%EndFont
+

@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+#container {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas: "logo intro-text intro-text intro-text intro-text" "video blurb-one image-one image-two image-three" "video blurb-one blurb-two blurb-two blurb-three";
+}
+
+img:nth-of-type(1) {
+  grid-area: logo;
+  height: 30vh;
+}
+
+h2 {
+  grid-area: intro-text;
+  font-weight: 300;
+  align-self: center;
+  line-height: 150%;
+}
+
+img:nth-of-type(2) {
+  grid-area: video;
+  height: 50%;
+}
+
+img:nth-of-type(3) {
+  grid-area: image-one;
+}
+
+img:nth-of-type(4) {
+  grid-area: image-two;
+}
+
+img:nth-of-type(5) {
+  grid-area: image-three;
+}
+
+.highlight {
+  color: #ec692c;
+}
+
+.blurb:nth-of-type(1) {
+  grid-area: blurb-one;
+}
+
+.blurb:nth-of-type(2) {
+  grid-area: blurb-two;
+}
+
+.blurb:nth-of-type(3) {
+  grid-area: blurb-three;
+}
+
+/*# sourceMappingURL=/phi-finder.e31bb0bc.css.map */
