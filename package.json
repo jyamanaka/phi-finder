@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "rm -rf dist && parcel build index.html --public-url ./ && cp -R dist/** docs"
+  },
   "devDependencies": {
     "cssnano": "^4.1.10",
     "sass": "^1.23.7"
